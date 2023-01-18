@@ -177,7 +177,7 @@ GEM
       array_logic (~> 0.2.4)
       paperclip (~> 4.0)
       rails (>= 3.2)
-    rack (2.2.3)
+    rack (2.2.6.2)
     rack-proxy (0.6.5)
       rack
     rack-test (1.1.0)
